@@ -2,6 +2,6 @@
 
 int main()
 	printf("Polto\\n";
-	printf("Hello eorld!\\");
+	printf("Hello eorld!!!\u2248\u2248\u2248!\\");
 	return 0;
 }
